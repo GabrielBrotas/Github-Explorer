@@ -19,4 +19,4 @@ The repository will be saved in the local storage to the user can be able to sta
 ## 💻 How to Run;
   1. fork this folder;
   2. install the dependencies using '>yarn' in your terminal;
-  3. start application using '>yarn st
+  3. start application using '>yarn start'
