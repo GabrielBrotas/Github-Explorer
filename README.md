@@ -11,10 +11,10 @@ The repository will be saved in the local storage to the user can be able to sta
 </div>
 
 ## 💻 Technologies
-  >React;
-  >TypeScript;
-  >Axios;
-  >Styled Components;
+  >React; <br />
+  >TypeScript; <br />
+  >Axios; <br />
+  >Styled Components; <br />
  
 ## 💻 How to Run;
   1. fork this folder;
