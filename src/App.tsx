@@ -2,15 +2,15 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
 import Routes from './routes';
-import GlobalStyle from './assets/global'
+import GlobalStyle from './assets/global';
 
 const App: React.FC = () => {
   return (
     <>
-    <BrowserRouter>
-      <Routes />
-    </BrowserRouter>
-    <GlobalStyle />
+      <BrowserRouter>
+        <Routes />
+      </BrowserRouter>
+      <GlobalStyle />
     </>
   );
 };
