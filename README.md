@@ -7,7 +7,7 @@ The repository will be saved in the local storage to the user can be able to sta
 <div style={{display: "flex", justifyContent: "space-between"}}>
   <img src="https://github.com/GabrielBrotas/Github-Explorer/blob/main/src/assets/landing.JPG" width="430px" />
   &nbsp
-  <img src="https://github.com/GabrielBrotas/Github-Explorer/blob/main/src/assets/repository.JPG" width="447px" style={{marginLeft: '20px'}} />
+  <img src="https://github.com/GabrielBrotas/Github-Explorer/blob/main/src/assets/repository.JPG" width="447px" style={{marginLeft: '30px'}} />
 </div>
 
 ## 💻 Technologies
